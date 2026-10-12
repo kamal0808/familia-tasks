@@ -5,7 +5,7 @@ Familia's public project repo: tasks and the Neki ledger for Familia, TOPC's fam
 - [Issues](https://github.com/kamal0808/familia-tasks/issues): open tasks. Each issue is one task, and its `neki:N` label is the Neki it earns (1 Neki = 1 rupee of work at market price).
 - [`LEDGER.md`](LEDGER.md): who has earned what. Your share of Familia = your Neki / all Neki there.
 
-The code is in a separate private repo.
+Code: [kamal0808/familia](https://github.com/kamal0808/familia). Private for now: you get access when you join the project.
 
 ## How it works
 
